@@ -2,7 +2,6 @@
 
 > A comprehensive demonstration of building a modern data warehouse and analytics solution using SQL Server and the **Medallion Architecture** pattern.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-Express-CC2927?logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/anumodit740/SQL_datawarehouse_project)
 
@@ -114,7 +113,6 @@ SQL_datawarehouse_project/
 │   └── validation_tests.sql
 │
 ├── 📄 README.md                    ← You are here
-├── 📄 LICENSE                      ← MIT License
 ├── 📄 .gitignore                   ← Git ignore rules
 └── 📄 requirements.txt             ← Dependencies
 
@@ -263,9 +261,3 @@ scripts/tests/validation_tests.sql
 💹 fact_Sales        → Sales transactions with keys to dimensions
                        (Measures: Amount, Quantity, Margin, etc.)
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
