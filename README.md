@@ -272,7 +272,6 @@ All objects follow consistent naming standards documented in [`docs/naming-conve
 ### 🔮 Future Scope
 - Migrate to **AWS RDS (MySQL)** + **S3 as Bronze data lake**
 - Add **Python orchestration layer** (pyodbc-based pipeline runner)
-- Implement **incremental load** — replace full refresh with CDC-based approach
 - Connect Gold Views to **Power BI** for live reporting dashboard
 
 ---
