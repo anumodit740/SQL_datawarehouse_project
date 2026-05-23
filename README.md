@@ -302,7 +302,7 @@ All objects follow consistent naming standards documented in [`docs/naming-conve
 
 **Anumodit**
 [![GitHub](https://img.shields.io/badge/GitHub-anumodit740-181717?logo=github)](https://github.com/anumodit740)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anumodit-shukla-59aa18288)
 
 ---
 
